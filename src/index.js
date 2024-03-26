@@ -120,9 +120,6 @@ if (!isNaN(numeroDeProdutos) && numeroDeProdutos > 0) { ... } else { ... }: Este
 Resumo:
 O código permite que o usuário adicione produtos a um carrinho de compras. Ele solicita o nome, preço e quantidade do produto, cria um objeto para representar o produto e o adiciona ao carrinho. Após cada adição de produto, pergunta ao usuário se ele deseja continuar comprando. Após o término das compras, exibe todos os produtos no carrinho, juntamente com o total da compra.
 
-MAIS CONTINUACAO 
-
-Claro! Vamos analisar o código mais detalhadamente:
 
 Importação do módulo prompt-sync:
 
